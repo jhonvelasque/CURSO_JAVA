@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="demo" uuid="119d5484-0bc4-4ed8-976e-58f309cee589">
+      <driver-ref>sqlserver.localdb.jtds</driver-ref>
+      <synchronize>true</synchronize>
+      <remarks>primera coneción</remarks>
+      <jdbc-driver>net.sourceforge.jtds.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:jtds:sqlserver://./demo</jdbc-url>
+      <jdbc-additional-properties>
+        <property name="LOCAL_DB_INSTANCE" value="MSSQLLocalDB" />
+      </jdbc-additional-properties>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="demo@localhost" uuid="44c1a86e-e55b-491e-8452-4e3fe356364f">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <remarks>coneccion</remarks>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://localhost\JHON:1433;database=demo</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</project>
