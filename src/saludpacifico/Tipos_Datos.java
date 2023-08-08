@@ -1,5 +1,5 @@
 package saludpacifico;
-// link de curos https://youtu.be/lj1VPo0lqkA
+// link de curos https://youtu.be/08f8_eHrarU
 public class Tipos_Datos {
     public static void main(String[] args) {
         //Numericos
@@ -22,6 +22,8 @@ public class Tipos_Datos {
         // string no es un tipo de dato primitivo es un Objeto
         String varible7="esto es un string ";
         System.out.println(varible);
+        // PALABRAS RESERVADAS EN JAVA
+        // https://www.javatpoint.com/java-keywords
 
     }
 }
