@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Para subir tu código Java desde la carpeta "open-boopcamp" a GitHub, debes seguir estos pasos:
 
 Crea un repositorio en GitHub:
@@ -51,3 +52,7 @@ Estos pasos te permitirán subir tu código Java desde la carpeta "open-boopcamp
 
 
 
+=======
+# CURSO_JAVA
+Primeros pasos java
+>>>>>>> 0db7745e8ab073dcb7887af60a645705cc4a6890
