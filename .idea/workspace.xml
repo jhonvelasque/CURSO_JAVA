@@ -29,6 +29,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
@@ -157,7 +160,8 @@
       <workItem from="1691383326128" duration="2993000" />
       <workItem from="1691386341938" duration="314000" />
       <workItem from="1691463699116" duration="2515000" />
-      <workItem from="1691530485744" duration="4322000" />
+      <workItem from="1691530485744" duration="5366000" />
+      <workItem from="1691539509786" duration="573000" />
     </task>
     <task id="LOCAL-00001" summary="jhon">
       <option name="closed" value="true" />
@@ -192,11 +196,6 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/saludpacifico/HolaMundo.java</url>
-          <line>3</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/saludpacifico/AdiosMundo.java</url>
           <line>5</line>
