@@ -44,5 +44,6 @@ Si estás utilizando una rama diferente en lugar de "master", asegúrate de reem
 
 Estos pasos te permitirán subir tu código Java desde la carpeta "open-boopcamp" a GitHub. No es necesario estar dentro de la carpeta en la terminal para hacer esto. Puedes ejecutar los comandos desde cualquier ubicación en la terminal y proporcionar la ruta correcta a la carpeta "open-boopcamp" en los comandos relevantes.
 
-
+## Editor de codigo
+- [documentación](https://www.jetbrains.com/help/idea/working-with-code-documentation.html)
 

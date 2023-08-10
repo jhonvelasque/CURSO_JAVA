@@ -50,6 +50,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.SHOW": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "1.8",
     "last_opened_file_path": "C:/jhon/dataScience/CURSOS/Platzi/curso scala/OpenBoopcamp",
@@ -78,13 +79,13 @@
       <recent name="resultado_suma" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.funciones">
-    <configuration name="AdiosMundo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="saludpacifico.AdiosMundo" />
+  <component name="RunManager" selected="Application.Switch">
+    <configuration name="If" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="saludpacifico.Paquetes_Control.Condicionales.If" />
       <module name="OpenBoopcamp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="saludpacifico.*" />
+          <option name="PATTERN" value="saludpacifico.Paquetes_Control.Condicionales.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PROYEC_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="saludpacifico.PROYEC_1" />
+    <configuration name="IfElseIf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="saludpacifico.Paquetes_Control.Condicionales.IfElseIf" />
       <module name="OpenBoopcamp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="saludpacifico.*" />
+          <option name="PATTERN" value="saludpacifico.Paquetes_Control.Condicionales.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tipos_Datos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="saludpacifico.Tipos_Datos" />
+    <configuration name="Switch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="saludpacifico.Paquetes_Control.Condicionales.Switch" />
       <module name="OpenBoopcamp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="saludpacifico.*" />
+          <option name="PATTERN" value="saludpacifico.Paquetes_Control.Condicionales.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,19 +119,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="funciones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="funciones" />
+    <configuration name="funciones_pre" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="funciones_pre" />
       <module name="OpenBoopcamp" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="operaciones_aritmetas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="saludpacifico.operaciones_aritmetas" />
+    <configuration name="saludpacifico.funciones.funciones_pre" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="saludpacifico.funciones.funciones_pre" />
       <module name="OpenBoopcamp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="saludpacifico.*" />
+          <option name="PATTERN" value="saludpacifico.funciones.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.funciones" />
-        <item itemvalue="Application.operaciones_aritmetas" />
-        <item itemvalue="Application.PROYEC_1" />
-        <item itemvalue="Application.Tipos_Datos" />
-        <item itemvalue="Application.AdiosMundo" />
+        <item itemvalue="Application.Switch" />
+        <item itemvalue="Application.IfElseIf" />
+        <item itemvalue="Application.If" />
+        <item itemvalue="Application.saludpacifico.funciones.funciones_pre" />
+        <item itemvalue="Application.funciones_pre" />
       </list>
     </recent_temporary>
   </component>
@@ -162,6 +163,8 @@
       <workItem from="1691463699116" duration="2515000" />
       <workItem from="1691530485744" duration="5366000" />
       <workItem from="1691539509786" duration="573000" />
+      <workItem from="1691540099427" duration="2756000" />
+      <workItem from="1691636231707" duration="4537000" />
     </task>
     <task id="LOCAL-00001" summary="jhon">
       <option name="closed" value="true" />
@@ -202,9 +205,14 @@
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/saludpacifico/operaciones_aritmetas.java</url>
-          <line>5</line>
-          <option name="timeStamp" value="5" />
+          <url>file://$PROJECT_DIR$/src/saludpacifico/funciones/funciones_pre.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/saludpacifico/Paquetes_Control/Condicionales/If.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
